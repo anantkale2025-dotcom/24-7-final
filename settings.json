@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sftp://node1.indernos.in",
+    "ip": "node1.indernos.in",
     "port": 2023,
     "version": "1.20.1",
     "try-creative": false
